@@ -1,6 +1,6 @@
 # Product of Array Except Self
 
-**LeetCode Problem:** https://leetcode.com/problems/product-of-array-except-self/ :contentReference[oaicite:0]{index=0}
+**LeetCode Problem:** https://leetcode.com/problems/product-of-array-except-self/
 
 ## Problem Statement
 
